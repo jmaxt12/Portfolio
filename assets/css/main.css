@@ -2174,3 +2174,22 @@ input, select, textarea {
 			}
 
 		}
+
+		.fa-linkedin:visited{
+			color:#0D162A
+		}
+		.fa-linkedin:hover{
+			color:#777777
+		}
+		.fa-file:visited{
+			color:#0D162A
+		}
+		.fa-file:hover{
+			color:#777777
+		}
+		.fa-github:visited{
+			color:#0D162A
+		}
+		.fa-github:hover{
+			color:#777777
+		}
