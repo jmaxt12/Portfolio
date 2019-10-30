@@ -2178,16 +2178,25 @@ input, select, textarea {
 		.fa-linkedin:visited{
 			color:#4F5E32
 		}
+		.fa-linkedin:link{
+			color:#4F5E32
+		}
 		.fa-linkedin:hover{
 			color:#0C1629
 		}
 		.fa-file:visited{
 			color:#4F5E32
 		}
+		.fa-file:link{
+			color:#4F5E32
+		}
 		.fa-file:hover{
 			color:#0C1629
 		}
 		.fa-github:visited{
+			color:#4F5E32
+		}
+		.fa-github:link{
 			color:#4F5E32
 		}
 		.fa-github:hover{
